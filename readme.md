@@ -10,6 +10,10 @@ Hi, I'm Kushagra Sharma! Welcome to my GitHub profile.
 ## Projects
 - [Smart Contact Management App](https://github.com/Kushagra-22/smart-contact-management)
 
+## 🤝 Let's Connect
+
+- 📧 Email: [your-email@example.com](kushagrasharma0922@gmail.com)
+- 💼 LinkedIn: [Your LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/kushagra-sharma-82a66a267/))
 
 <div align="center"> 
   
