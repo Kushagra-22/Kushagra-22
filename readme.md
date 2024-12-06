@@ -1,3 +1,16 @@
+# Welcome to My GitHub Profile
+
+Hi, I'm Kushagra Sharma! Welcome to my GitHub profile.
+
+## About Me
+- 🔧 I’m a Software Engineer specializing in Full-Stack Development.
+- 📚 I love working with Java,JS,React-js, Spring Boot, and PostgreSQL.
+- 🌱 I’m currently learning about Cloud technologies and DevOps practices.
+
+## Projects
+- [Smart Contact Management App](https://github.com/Kushagra-22/smart-contact-management)
+
+
 <div align="center"> 
   
 <!--   <h2>🐍 Contributions 🐍</h2>
