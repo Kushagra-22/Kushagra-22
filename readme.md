@@ -8,7 +8,8 @@ Hi, I'm Kushagra Sharma! Welcome to my GitHub profile.
 - 🌱 I’m currently learning about Cloud technologies and DevOps practices.
 
 ## Projects
-- [Smart Contact Management App](https://github.com/Kushagra-22/smart-contact-management)
+- [Smart Contact Management App](https://github.com/Kushagra-22/SCM2.0)
+
 
 ## 🤝 Let's Connect
 
